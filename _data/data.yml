@@ -59,27 +59,21 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: MSc in Life Sciences Enginnering, minor in Data Science
-      university: EPFL
+      university: EPFL (École polytechnique fédérale de Lausanne)
       time: 2019 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        EPFL Master’s degree in Life Sciences Engineering and minor in Data Science with a 5.62/6 average.
+        The master's thesis was conducted at NeuroPoly (Canada) and resulted in the highest grade and the submission of a scientific paper.
+        The courses and projects were focused on the application of data/computer science to life sciences topics (oncology, cell & molecular biology, genetics & genomics and neurology).
+          - Master's thesis project on using deep learning technique for multimodal spinal cord MRI registration.
+          - Industry internship in a start-up doing data-driven precision medicine.
+          - Semester projects to implement neural networks for gene expression prediction and for instance segmentation of cells.
     - degree: BSc in Life Sciences Enginnering
-      university: EPFL
+      university: EPFL (École polytechnique fédérale de Lausanne)
       time: 2016 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        EPFL Bachelor’s degree in Life Sciences Engineering with an average higher than 5/6.
+        Polytechnic education based on multidisciplinary skills built on a solid theoretical training in basic and life sciences. Interest developed in molecular medicine, genetics/genomics and data/computer science fields. 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
