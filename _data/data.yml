@@ -96,7 +96,7 @@ experiences:
       details: |
         Extra scholar personal tutor in maths, physics, biology and chemistry for high school students.
 thesis:
-    - role: Master thesis student
+    - # role: Master thesis student
       time: 2021 - 2022
       company: NeuroPoly lab, Polytechnique Montreal
       details: |
