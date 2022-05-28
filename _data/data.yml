@@ -95,6 +95,14 @@ experiences:
       company: # Amazon, London
       details: |
         Extra scholar personal tutor in maths, physics, biology and chemistry for high school students.
+thesis:
+    - role: Master thesis student
+      time: 2021 - 2022
+      company: NeuroPoly lab, Polytechnique Montreal
+      details: |
+        Implementation of a fully automatized deep learning pipeline for multimodal registration of brain and spinal cord MRI images for the NeuroPoly lab led by Prof. J. Cohen-Adad at Polytechnique Montreal. 
+        The models and pipeline are publicly available on [GitHub](https://github.com/ivadomed/multimodal-registration).
+        The project was realized in Python and Shell and resulted in the submission of a scientific article to the journal Aperture Neuro.
 projects:
     title: Projects
     intro: >
