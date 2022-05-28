@@ -120,11 +120,11 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
-        link: "#hook"
+        link: evanbeal.github.io/EnchilADAs/ # "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
-        link: "#"
+        link: "EnchilADAs" # "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
