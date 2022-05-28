@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Evan Béal
     tagline: Life Sciences & Data Science Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: cv_picture.png #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: evan.beal@alumni.epfl.ch
