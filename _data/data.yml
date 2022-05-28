@@ -114,8 +114,8 @@ projects:
         link: "#hook" # evanbeal.github.io/EnchilADAs/ # "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: [DevStudio](https://evanbeal.github.io/EnchilADAs/)
-        link: # "#" # "EnchilADAs" # "#"
+      - title: DevStudio
+        link: "#" # "EnchilADAs" # "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
