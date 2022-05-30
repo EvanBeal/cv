@@ -119,7 +119,7 @@ projects:
          company: Laboratory of the Physics of Biological Systems
          details: |
            Implementation of a convolutional neural network for the Laboratory of the Physics of Biological Systems (LPBS) led by Prof. S. Rahi at EPFL to do instance segmentation of yeast cells on microscope images. 
-           Neural network implemented: Mask R-CNN, using Python and Keras/TensorFlow.
+           Neural network implemented: Mask R-CNN, using Python and Keras/TensorFlow (report available [here](https://evanbeal.github.io/MLproj)).
        - title: Analysis of Tesco and socio-economic data of Londoners
          company: Applied Data Analysis (CS-401, Prof. R. West)
          details: |
