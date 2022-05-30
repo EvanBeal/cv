@@ -110,7 +110,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-       - title: Gene expression prediction from ChIP-seq data
+       - title: [Gene expression prediction from ChIP-seq data](https://evanbeal.github.io/GeneExprPredproj)
          company: Laboratory of Computational and Systems Biology
          details: |
            Implementation of a neural network for the Laboratory of Computational and Systems Biology led by Prof. F. Naef at EPFL to predict gene expression data from ChIP-seq data and explore the biological meaning of the network.
