@@ -131,7 +131,12 @@ projects:
        - title: Heterogeneous mouse brain cells sample analysis
          company: Single cell biology (BIOENG-420, Prof. B. Deplancke and Prof. D. Suter)
          details: |
-           Determine the number of cell types present in the dataset and the marker genes characterizing the different cell types. Identification of the cell types present and the amount of genes expressed per cell and per cell type. 
+           Determine the number of cell types present in a dataset and the marker genes characterizing the different cell types. Identification of the cell types present and the amount of genes expressed per cell and per cell type. 
+           The project was realized in R.
+       - title: Molecular analysis of thalamic nuclei via unsupersived hierarchical clustering and PCA
+         company: Genomics and bioinformatics (BIO-463, Prof. J. Rougemont)
+         details: |
+           Determine three major molecular profiles across 22 distinct nuclei of the thalamus through unsupervised hierarchical clustering of the most differentially expressed genes. 
            The project was realized in R.
         
     #assignments:
