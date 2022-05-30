@@ -16,26 +16,26 @@
   </div><!--//intro-->
   {% endif %}
   
-  {% for project in projects %}
-  <div class="item">
+  {% for project in projects.assignments %}
+    <div class="item">
+  
+      <div class="meta">
 
-    <div class="meta">
+        <div class="upper-row">
+          <h3 class="job-title">{{ project.title }}</h3>
+        </div><!--//upper-row-->
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ project.title }}</h3>
-      </div><!--//upper-row-->
+        <div class="company">{{ project.company }}</div>
 
-      <div class="company">{{ project.company }}</div>
+      </div><!--//meta-->
 
-    </div><!--//meta-->
+      {% if project.details %}
+      <div class="details">
+        {{ project.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
 
-    {% if project.details %}
-    <div class="details">
-      {{ project.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-
-  </div><!--//item-->
+    </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
