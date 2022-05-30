@@ -132,7 +132,7 @@ projects:
          company: Single cell biology (BIOENG-420, Prof. B. Deplancke and Prof. D. Suter)
          details: |
            Determine the number of cell types present in a dataset and the marker genes characterizing the different cell types. Identification of the cell types present and the amount of genes expressed per cell and per cell type. 
-           The project was realized in R.
+           The project was realized in R and the report is available [here](https://evanbeal.github.io/SCproj).
        - title: Molecular analysis of thalamic nuclei via unsupersived hierarchical clustering and PCA
          company: Genomics and bioinformatics (BIO-463, Prof. J. Rougemont)
          details: |
