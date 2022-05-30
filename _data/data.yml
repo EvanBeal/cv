@@ -138,7 +138,13 @@ projects:
          details: |
            Determine three major molecular profiles across 22 distinct nuclei of the thalamus through unsupervised hierarchical clustering of the most differentially expressed genes. 
            The project was realized in R (report available [here](https://evanbeal.github.io/BioInfproj)).
-        
+       - title: GWAS for identification of SNPs correlated to coronary artery disease predisposition
+         company: Applied biostatistics (MATH-493, Prof. D. Goldstein)
+         details: |
+           Genome wide association analysis for identification of single-nucleotide polymorphisms correlated to coronary artery disease predisposition using HDL cholesterol concentration data.
+           The project was realized in R (report available [here](https://evanbeal.github.io/BioStatproj)).
+
+
     #assignments:
     #  - title: Velocity
     #    link: # "#hook" # evanbeal.github.io/EnchilADAs/ # "#hook"
