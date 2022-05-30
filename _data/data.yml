@@ -127,7 +127,7 @@ projects:
        - title: Image analysis to describe the behaviour of a robot in a special environment
          company: Image Analysis and Pattern Recognition (EE-451, Prof. J.P. Thiran)
          details: |
-           Use of image analysis and pattern recognition to build a pipeline (OOP) able to track a robot and recognize patterns (segmentation, description, classification).
+           Use of image analysis and pattern recognition to build a pipeline (OOP) able to track a robot and recognize patterns (segmentation, description, classification). The presentation of the project is available [here](https://evanbeal.github.io/IAPRproj).
        - title: Heterogeneous mouse brain cells sample analysis
          company: Single cell biology (BIOENG-420, Prof. B. Deplancke and Prof. D. Suter)
          details: |
