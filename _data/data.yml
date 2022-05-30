@@ -114,7 +114,7 @@ projects:
          company: Laboratory of Computational and Systems Biology
          details: |
            Implementation of a neural network for the Laboratory of Computational and Systems Biology led by Prof. F. Naef at EPFL to predict gene expression data from ChIP-seq data and explore the biological meaning of the network.
-           The network has been developed to be biologically interpretable. The project was realized in Python and the networks were developed with Keras/TensorFlow.
+           The network has been developed to be biologically interpretable. The project was realized in Python and the networks were developed with Keras/TensorFlow (report available [here](https://evanbeal.github.io/GeneExprPredproj)).
        - title: Instance segmentation of yeast cells
          company: Laboratory of the Physics of Biological Systems
          details: |
