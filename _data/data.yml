@@ -123,7 +123,7 @@ projects:
        - title: Analysis of Tesco and socio-economic data of Londoners
          company: Applied Data Analysis (CS-401, Prof. R. West)
          details: |
-           Correlation and causality analysis on the effect of ethnicity on food purchase habits at Tesco in London, associated to animated visualization of the results. [Link](https://evanbeal.github.io/EnchilADAs/) to the project report.
+           Correlation and causality analysis on the effect of ethnicity on food purchase habits at Tesco in London, associated to animated visualization of the results. The project report is available [here](https://evanbeal.github.io/EnchilADAs/).
        - title: Image analysis to describe the behaviour of a robot in a special environment
          company: Image Analysis and Pattern Recognition (EE-451, Prof. J.P. Thiran)
          details: |
@@ -132,12 +132,12 @@ projects:
          company: Single cell biology (BIOENG-420, Prof. B. Deplancke and Prof. D. Suter)
          details: |
            Determine the number of cell types present in a dataset and the marker genes characterizing the different cell types. Identification of the cell types present and the amount of genes expressed per cell and per cell type. 
-           The project was realized in R and the report is available [here](https://evanbeal.github.io/SCproj).
+           The project was realized in R (report available [here](https://evanbeal.github.io/SCproj)).
        - title: Molecular analysis of thalamic nuclei via unsupersived hierarchical clustering and PCA
          company: Genomics and bioinformatics (BIO-463, Prof. J. Rougemont)
          details: |
            Determine three major molecular profiles across 22 distinct nuclei of the thalamus through unsupervised hierarchical clustering of the most differentially expressed genes. 
-           The project was realized in R.
+           The project was realized in R (report available [here](https://evanbeal.github.io/BioInfproj)).
         
     #assignments:
     #  - title: Velocity
