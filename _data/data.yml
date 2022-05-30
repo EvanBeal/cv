@@ -110,11 +110,24 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-       - title: Instance segmentation of yeast cells
-         company: Laboratory of the Physics of Biological Systems (LPBS)
+       - title: Gene expression prediction from ChIP-seq data
+         company: Laboratory of Computational and Systems Biology
          details: |
-           Implementation of a CNN (Convolutional Neural Network) for the Laboratory of the Physics of Biological Systems (LPBS) led by Prof. S. Rahi at EPFL to do instance segmentation of yeast cells on microscope images. 
-           Neural network implemented : Mask R-CNN, using Python and Keras/TensorFlow.
+           Implementation of a neural network for the Laboratory of Computational and Systems Biology led by Prof. F. Naef at EPFL to predict gene expression data from ChIP-seq data and explore the biological meaning of the network.
+           The network has been developed to be biologically interpretable. The project was realized in Python and the networks were developed with Keras/TensorFlow.
+       - title: Instance segmentation of yeast cells
+         company: Laboratory of the Physics of Biological Systems
+         details: |
+           Implementation of a convolutional neural network for the Laboratory of the Physics of Biological Systems (LPBS) led by Prof. S. Rahi at EPFL to do instance segmentation of yeast cells on microscope images. 
+           Neural network implemented: Mask R-CNN, using Python and Keras/TensorFlow.
+       - title: Analysis of Tesco and socio-economic data of Londoners
+         company: Applied Data Analysis (CS-401, Prof. R. West)
+         details: |
+           Correlation and causality analysis on the effect of ethnicity on food purchase habits at Tesco in London, associated to animated visualization of the results. [Link](https://evanbeal.github.io/EnchilADAs/) to the project report.
+       - title: Image analysis to describe the behaviour of a robot in a special environment
+         company: Image Analysis and Pattern Recognition (EE-451, Prof. J.P. Thiran)
+         details: |
+           Use of image analysis and pattern recognition to build a pipeline (OOP) able to track a robot and recognize patterns (segmentation, description, classification).
         
     #assignments:
     #  - title: Velocity
