@@ -109,11 +109,12 @@ projects:
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    - title: Instance segmentation of yeast cells
-      company: Laboratory of the Physics of Biological Systems (LPBS)
-      details: |
-        Implementation of a CNN (Convolutional Neural Network) for the Laboratory of the Physics of Biological Systems (LPBS) led by Prof. S. Rahi at EPFL to do instance segmentation of yeast cells on microscope images. 
-        Neural network implemented : Mask R-CNN, using Python and Keras/TensorFlow.
+    assignments:
+       - title: Instance segmentation of yeast cells
+         company: Laboratory of the Physics of Biological Systems (LPBS)
+         details: |
+           Implementation of a CNN (Convolutional Neural Network) for the Laboratory of the Physics of Biological Systems (LPBS) led by Prof. S. Rahi at EPFL to do instance segmentation of yeast cells on microscope images. 
+           Neural network implemented : Mask R-CNN, using Python and Keras/TensorFlow.
         
     #assignments:
     #  - title: Velocity
