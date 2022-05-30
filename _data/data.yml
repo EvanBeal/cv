@@ -128,6 +128,11 @@ projects:
          company: Image Analysis and Pattern Recognition (EE-451, Prof. J.P. Thiran)
          details: |
            Use of image analysis and pattern recognition to build a pipeline (OOP) able to track a robot and recognize patterns (segmentation, description, classification).
+       - title: Heterogeneous mouse brain cells sample analysis
+         company: Single cell biology (BIOENG-420, Prof. B. Deplancke and Prof. D. Suter)
+         details: |
+           Determine the number of cell types present in the dataset and the marker genes characterizing the different cell types. Identification of the cell types present and the amount of genes expressed per cell and per cell type. 
+           The project was realized in R.
         
     #assignments:
     #  - title: Velocity
