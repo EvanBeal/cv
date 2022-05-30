@@ -104,7 +104,7 @@ thesis:
         The models and pipeline are [publicly available on GitHub](https://github.com/ivadomed/multimodal-registration).
         The project was realized in Python and Shell and resulted in the submission of a scientific article to the journal Aperture Neuro.
 projects:
-    title: Projects
+    # title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
