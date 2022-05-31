@@ -117,7 +117,7 @@ projects:
        - title: Analysis of Tesco and socio-economic data of Londoners
          company: Applied Data Analysis (CS-401, Prof. R. West)
          details: |
-           Correlation and causality analysis on the effect of ethnicity on food purchase habits at Tesco in London, associated to animated visualization of the results. The project report is available [here](https://evanbeal.github.io/EnchilADAs/).
+           Correlation and causality analysis on the effect of ethnicity on food purchase habits at Tesco in London, associated to animated visualization of the results. The project report is available [here](https://evanbeal.github.io/EnchilADAs/), while the code is available on [GitHub](https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_enchiladas).
        - title: Image analysis to describe the behaviour of a robot in a special environment
          company: Image Analysis and Pattern Recognition (EE-451, Prof. J.P. Thiran)
          details: |
