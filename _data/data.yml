@@ -52,7 +52,7 @@ career-profile:
     title: Who I am
     summary: |
       Hello! I am Evan, a freshly graduated Life Sciences Engineer of 24 years old. 
-      I am really interested in data-driven and personalized medicine and would be enthusiastic for bringing personal skills and knowledge acquired during my studies to an innovative company.
+      I am really interested in data-driven and personalized medicine topics and would be enthusiastic for bringing personal skills and knowledge acquired during my studies to an innovative company.
 education:
     - degree: MSc in Life Sciences Enginnering, minor in Data Science
       university: EPFL (École polytechnique fédérale de Lausanne)
@@ -92,7 +92,7 @@ experiences:
       details: |
         Extra scholar personal tutor in maths, physics, biology and chemistry for high school students.
 thesis:
-    - role: Contrast agnostic deep learning based registration pipeline. Validation in spinal cord multimodal MRI data
+    - role: Contrast agnostic deep learning based registration pipeline
       time: 2021 - 2022
       company: NeuroPoly lab, Polytechnique Montreal
       details: |
@@ -186,20 +186,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Deep/Machine learning
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: R
+        level: 80%
+
+      - name: GitHub
+        level: 80%
+
+      - name: Matlab
+        level: 65%
+
+      - name: C++
+        level: 55%
