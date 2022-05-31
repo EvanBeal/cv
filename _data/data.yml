@@ -96,7 +96,7 @@ experiences:
       details: |
         Extra scholar personal tutor in maths, physics, biology and chemistry for high school students.
 thesis:
-    - # role: Master thesis student
+    - role: Contrast agnostic deep learning based registration pipeline: Validation in spinal cord multimodal MRI data
       time: 2021 - 2022
       company: NeuroPoly lab, Polytechnique Montreal
       details: |
