@@ -106,9 +106,7 @@ thesis:
 projects:
     # title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below is a description of the various data/computer science projects, primarily applied to the life sciences, completed during my master's degree, along with a link to the submitted reports.
     assignments:
        - title: Gene expression prediction from ChIP-seq data
          company: Laboratory of Computational and Systems Biology
