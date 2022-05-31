@@ -49,14 +49,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Who I am
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello! I am Evan, a freshly graduated Life Sciences Engineer of 24 years old. 
+      I am really interested in data-driven and personalized medicine and would be enthusiastic for bringing personal skills and knowledge acquired during my studies to an innovative company.
 education:
     - degree: MSc in Life Sciences Enginnering, minor in Data Science
       university: EPFL (École polytechnique fédérale de Lausanne)
