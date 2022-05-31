@@ -187,19 +187,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
       - name: Deep/Machine learning
-        level: 85%
+        level: 80%
 
       - name: R
-        level: 80%
+        level: 75%
 
       - name: GitHub
-        level: 80%
+        level: 75%
 
       - name: Matlab
-        level: 65%
+        level: 60%
 
       - name: C++
-        level: 55%
+        level: 50%
